@@ -5,8 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/blended-js-task-list
-/",
+    "build": "vite build --base=/blended-js-task-list/",
     "preview": "vite preview"
   },
   "devDependencies": {
